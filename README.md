@@ -27,7 +27,7 @@ Before installing dependencies, activate the virtual environment.
 
 On Windows:
 ```
-.\env\Scripts\activate
+.venv\Scripts\activate
 ```
 On Mac:
 ```bash
